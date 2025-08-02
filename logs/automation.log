@@ -1,0 +1,30 @@
+2025-08-02 17:56:31 INFO  TC001LoginTest:34 - Browser selected is chrome
+2025-08-02 17:56:33 INFO  TC001LoginTest:12 - ********* Starting TC001LoginTest ********* 
+2025-08-02 17:56:34 INFO  TC001LoginTest:25 - Submitted Login Credentials
+2025-08-02 17:56:36 INFO  TC001LoginTest:36 - Verified Login
+2025-08-02 17:56:36 INFO  TC001LoginTest:43 - ********* Finishing TC001LoginTest ********* 
+2025-08-02 17:56:36 INFO  TC001LoginTest:34 - Browser selected is firefox
+2025-08-02 17:56:38 INFO  TC001LoginTest:12 - ********* Starting TC001LoginTest ********* 
+2025-08-02 17:56:40 INFO  TC001LoginTest:25 - Submitted Login Credentials
+2025-08-02 17:56:40 INFO  TC001LoginTest:36 - Verified Login
+2025-08-02 17:56:40 INFO  TC001LoginTest:43 - ********* Finishing TC001LoginTest ********* 
+2025-08-02 18:00:45 INFO  TC001LoginTest:34 - Browser selected is chrome
+2025-08-02 18:00:47 INFO  TC001LoginTest:12 - ********* Starting TC001LoginTest ********* 
+2025-08-02 18:00:48 INFO  TC001LoginTest:25 - Submitted Login Credentials
+2025-08-02 18:00:50 INFO  TC001LoginTest:36 - Verified Login
+2025-08-02 18:00:50 INFO  TC001LoginTest:43 - ********* Finishing TC001LoginTest ********* 
+2025-08-02 18:00:51 INFO  TC001LoginTest:34 - Browser selected is firefox
+2025-08-02 18:00:53 INFO  TC001LoginTest:12 - ********* Starting TC001LoginTest ********* 
+2025-08-02 18:00:54 INFO  TC001LoginTest:25 - Submitted Login Credentials
+2025-08-02 18:00:55 INFO  TC001LoginTest:36 - Verified Login
+2025-08-02 18:00:55 INFO  TC001LoginTest:43 - ********* Finishing TC001LoginTest ********* 
+2025-08-02 18:26:44 INFO  TC001LoginTest:48 - Browser selected is chrome
+2025-08-02 18:26:46 INFO  TC001LoginTest:12 - ********* Starting TC001LoginTest ********* 
+2025-08-02 18:26:50 INFO  TC001LoginTest:25 - Submitted Login Credentials
+2025-08-02 18:26:50 INFO  TC001LoginTest:36 - Verified Login
+2025-08-02 18:26:50 INFO  TC001LoginTest:43 - ********* Finishing TC001LoginTest ********* 
+2025-08-02 18:26:51 INFO  TC001LoginTest:48 - Browser selected is firefox
+2025-08-02 18:26:53 INFO  TC001LoginTest:12 - ********* Starting TC001LoginTest ********* 
+2025-08-02 18:26:55 INFO  TC001LoginTest:25 - Submitted Login Credentials
+2025-08-02 18:26:55 INFO  TC001LoginTest:36 - Verified Login
+2025-08-02 18:26:55 INFO  TC001LoginTest:43 - ********* Finishing TC001LoginTest ********* 
