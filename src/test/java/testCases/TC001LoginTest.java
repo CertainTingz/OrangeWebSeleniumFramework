@@ -17,12 +17,12 @@ public class  TC001LoginTest extends BaseTestCase {
 
 
          //Enter credentials
-         loginPage.setUsername("admin");
-         loginPage.setPassword("admin123");
+         loginPage.setUsername(prop.getProperty("username"));
+         loginPage.setPassword(prop.getProperty("password"));
          // Submit credentials
          loginPage.clickLoginButton();
 
-         logger.info(" Submitted Login Credentials");
+         logger.info("Submitted Login Credentials");
 
          System.out.println("Login Success");
 
