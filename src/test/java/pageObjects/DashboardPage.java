@@ -12,7 +12,10 @@ public class DashboardPage extends BasePage{
 
 
     @FindBy( css = "a[class='oxd-main-menu-item active'] span[class='oxd-text oxd-text--span oxd-main-menu-item--name']")
-    WebElement btnDashboard;
+    WebElement menuDashboard;
+
+    @FindBy(css = "a[class='oxd-main-menu-item active'] svg")
+    WebElement menuAdmin;
 
 
     @FindBy(css = ".oxd-text.oxd-text--h6.oxd-topbar-header-breadcrumb-module")
